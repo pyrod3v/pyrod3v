@@ -7,4 +7,4 @@ I'm a high school student who loves coding.
     - Java
     - Kotlin
 
-<a href="https://app.daily.dev/pyrod3v"><img src="https://api.daily.dev/devcards/v2/O9C9bPfHw3Pk3KYT9nHOh.png?type=default&r=m9l" width="356" alt="Pyro's Dev Card"/></a>
+<a href="https://app.daily.dev/pyrod3v"><img src="./devcard.png" width="356" alt="Pyro's DevCard"/></a>
